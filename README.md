@@ -1,1 +1,1 @@
-# project-1
+Sentiment analysis is the process of analyzing digital text to determine if the emotional tone of the message is positive,negative or neutral.Sentiment analysis is a form of text research that uses a mix of statistics,natural language processing(NLP) and machine learning to identify and extract subjective information-for instance,a reviewer's feelings,thoughts,judgements,or assessments about a particular topic,event,or a company and its activities.
